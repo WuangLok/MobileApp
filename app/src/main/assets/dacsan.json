@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Phở",
+    "description": "Phở là một món ăn truyền thống của Việt Nam.",
+    "image_url": "url_to_pho_image"
+  },
+  {
+    "name": "Bánh mì",
+    "description": "Bánh mì là một loại bánh sandwich của Việt Nam.",
+    "image_url": "url_to_banh_mi_image"
+  }
+]
